@@ -7,9 +7,9 @@ PowerUps include:
 - Change of Ball speed
 - Change of Ball direction
 
-![Menu](https://drive.google.com/drive/folders/1uUu_zmSGnEF9Y75H31HWdHHwbU2pLOkg)
+![Menu](screenshots/menu.png)
 
-![Gameplay](https://drive.google.com/drive/folders/1uUu_zmSGnEF9Y75H31HWdHHwbU2pLOkg)
+![Gameplay](screenshots/gameplay.png)
 
-![Win](https://drive.google.com/file/d/1Yy_v-r1SpgeyWuTc9V_iHgz3o208F6A8/view?usp=sharing)
+![Win](screenshots/win.png)
 
