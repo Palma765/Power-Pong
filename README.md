@@ -10,7 +10,8 @@ PowerUps include:
 
 ## Gameplay video
 
-[![Power Pong Gameplay](http://www.youtube.com/watch?v=EmMsynEyKwM/0.jpg)](https://www.youtube.com/watch?v=EmMsynEyKwM "Gameplay")
+[![Power Pong Gameplay](https://www.youtube.com/watch?v=EmMsynEyKwM/0.jpg)]
+(https://www.youtube.com/watch?v=EmMsynEyKwM "Gameplay")
 
 
 ## Screenshots
