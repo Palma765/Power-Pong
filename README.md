@@ -9,7 +9,15 @@ PowerUps include:
 
 ![Menu](screenshots/menu.png)
 
+
+
 ![Gameplay](screenshots/gameplay.png)
+
+
+
+![Gameplay](screenshots/gameplay2.png)
+
+
 
 ![Win](screenshots/win.png)
 
